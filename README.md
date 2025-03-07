@@ -23,7 +23,7 @@ To verify, run in terminal
 
 # Clone and Setup Project
 
-1.Clone the repository:git clone https://github.com/your-username/stock-trading-engine.git
+1.Clone the repository:git clone https://github.com/VaraIndia/Onymos_Hiring_Solution.git
 
 2.Navigate to the project directory: cd stock-trading-engine
 
